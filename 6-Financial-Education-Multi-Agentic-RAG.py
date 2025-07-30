@@ -7,7 +7,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["USER_AGENT"] = "FinEduMultiAgentBot/1.0"
 
 import numpy as np
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 from typing import Annotated, Sequence
 from typing_extensions import TypedDict
 
